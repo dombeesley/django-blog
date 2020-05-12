@@ -2,6 +2,8 @@
 
 A simple blog app written using Django.
 
+[![Build Status](https://travis-ci.org/dombeesley/django-blog.svg?branch=master)](https://travis-ci.org/dombeesley/django-blog)
+
 
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
