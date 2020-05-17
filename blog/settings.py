@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [os.environ.get("C9_HOSTNAME"),
                 '127.0.0.1',
-                'https://blog-testerapp.herokuapp.com/']
+                'blog-testerapp.herokuapp.com']
 
 
 # Application definition
